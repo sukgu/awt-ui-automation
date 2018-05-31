@@ -1,0 +1,1 @@
+This project is to help you understands how we can automate AWT desktop application. This project comprises of examples using ROBOT framework and AWT base classes to identify elements and to perform operations on that element.
